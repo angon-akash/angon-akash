@@ -1,16 +1,14 @@
-## Hi there 👋
+🎓 Computer Science Student at Concordia University | IT Intern at Foodtastic Inc.
 
-<!--
-**angon-akash/angon-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about automation, cybersecurity, and software development. 
 
-Here are some ideas to get you started:
+🔧 Skills: PowerShell, Python, Java, and Full-Stack Development | Learning Security+ and Advanced IT Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Highlights:
+- Developing automation scripts for device management and workflows.
+- Exploring innovative solutions in IT support and operations.
+- Experienced in creating robust software solutions and scalable web apps.
+
+📌 Open to collaborations in automation, AI-powered tools, and IT security projects.
+
+📫 Let's connect: [angon.akash@gmail.com](mailto:angon.akash@gmail.com)
